@@ -1,2 +1,1 @@
-# BickBeeV2.github.io
- 
+# BickBee2.github.io
